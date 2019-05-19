@@ -8,13 +8,15 @@
     "react-dom": "^16.8.6"
   },
   "devDependencies": {
-    "react-scripts": "0.9.x",
-    "@storybook/react": "^5.0.11",
+    "@babel/core": "^7.4.4",
     "@storybook/addon-actions": "^5.0.11",
     "@storybook/addon-links": "^5.0.11",
     "@storybook/addons": "^5.0.11",
-    "@babel/core": "^7.4.4",
-    "babel-loader": "^8.0.6"
+    "@storybook/react": "^5.0.11",
+    "babel-loader": "^8.0.6",
+    "html-loader": "^0.5.5",
+    "markdown-loader": "^5.0.0",
+    "react-scripts": "0.9.x"
   },
   "scripts": {
     "start": "react-scripts start",
